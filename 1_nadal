@@ -3,18 +3,20 @@
 <html lang="et" xml:lang="et" xmlns="http://www.w3.org/1999/xhtml">
 <head>
  <meta charset="utf-8">
+ <meta name="author" content="Jevgeni Jurtsenko">
  <title>Kodune ulesanne nr.1</title>
  <style type="text/css">
+ h1 { text-align:center; }
  </style>
 	
 </head>
 
 <body>
-<h2>Client – server model</h2>
+<h1>Client–server model</h1>
 
 <p>
 <img alt="Client server model" src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/500px-Client-server-model.svg.png><br><br>
-The client–server model is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients.[1] Often clients and servers communicate over a computer network on separate hardware, but both client and server may reside in the same system. A server host runs one or more server programs which share their resources with clients. A client does not share any of its resources, but requests a server's content or service function. Clients therefore initiate communication sessions with servers which await incoming requests. Examples of computer applications that use the client–server model are Email, network printing, and the World Wide Web.
+<b>The client–server model</b><a href="https://en.wikipedia.org/wiki/Client%E2%80%93server_model">[1]</a> is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients.[1] Often clients and servers communicate over a computer network on separate hardware, but both client and server may reside in the same system. A server host runs one or more server programs which share their resources with clients. A client does not share any of its resources, but requests a server's content or service function. Clients therefore initiate communication sessions with servers which await incoming requests. Examples of computer applications that use the client–server model are Email, network printing, and the World Wide Web.
 </p>
 <h4>A client/server network has three main components</h4>
  <ul>
