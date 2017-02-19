@@ -1,8 +1,14 @@
-<html lang="et" xml:lang="et">
+<!DOCTYPE html>
+
+<html lang="et" xml:lang="et" xmlns="http://www.w3.org/1999/xhtml">
 <head>
  <meta charset="utf-8">
- <title>Kodune ulesanne nr.1</title>	
+ <title>Kodune ulesanne nr.1</title>
+ <style type="text/css">
+ </style>
+	
 </head>
+
 <body>
 <h2>Client–server model</h1>
 
