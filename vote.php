@@ -21,7 +21,7 @@
 <div id="wrap">
 	<h3>Fotod</h3>
 	<div id="gallery">
-	<form action="tuheight="100"lemus.html" method="GET">
+	<form action="tulemus.html" method="GET">
 
 	<?php
     $files = glob("pildid/*.*");
